@@ -1,8 +1,7 @@
 ### Hey 👋
 
-- 🔭 I’m currently working on a SaaS Stealth Startup
-- 🌱 I’m currently learning PayloadCMS with Next.js
-- 💬 Ask me about full-stack development
+- 🔭 I’m working on a SaaS stealth startup
+- 🌱 I’m learning PayloadCMS with Next.js
 - 💻 I love using Neovim as my text editor
+- ⚡ I've solved over 150 LeetCode problems
 - 📫 You can reach me at jobs@mxsaad.com
-- ⚡ Fun fact: I've solved 150+ LeetCode problems
